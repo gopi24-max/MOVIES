@@ -1,0 +1,29 @@
+body{
+    background: url(./movie-film-strip-blue-background_1017-3345.avif);
+    background-repeat: no-repeat;
+    background-size:150%;
+}
+h3{
+    font-size: 20px;
+    color:rgb(190, 4, 4);
+}
+h4{
+    font-size: 15px;
+    color:white;
+}
+#topic{
+    color: rgb(206, 10, 10);
+    
+}
+img{
+ height: 250px;
+width:250px;
+border-radius: 100px;
+border: 15px solid black;
+}
+marquee{
+      width: 250px;
+      margin-left: 600px;
+    
+
+} 
